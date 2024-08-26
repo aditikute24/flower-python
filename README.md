@@ -51,4 +51,6 @@ To run this project locally, follow these steps:
 - **Turtle Graphics**: A built-in Python library used for drawing shapes and patterns. It is perfect for creating visual effects and learning programming concepts interactively.
 
 ## Output
-<img src="https://github.com/user-attachments/assets/71dd94d1-cba1-44bc-9f34-21f924fa208e" alt="Output" width="300" height="400">
+<div align="center">
+<img src="https://github.com/user-attachments/assets/71dd94d1-cba1-44bc-9f34-21f924fa208e" alt="Output" width="400" height="400">
+</div>
