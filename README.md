@@ -50,3 +50,7 @@ To run this project locally, follow these steps:
 - **Python**: The core programming language used for developing the flower drawing.
 - **Turtle Graphics**: A built-in Python library used for drawing shapes and patterns. It is perfect for creating visual effects and learning programming concepts interactively.
 
+## Output
+![image](https://github.com/user-attachments/assets/71dd94d1-cba1-44bc-9f34-21f924fa208e)
+
+
